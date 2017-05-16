@@ -1,0 +1,1 @@
+Crea un array enorme di numeri (oltre 100.000 elementi) poi dividilo per 4 e assegna ad ogni thread una parte e restituisci la somma finale, creane poi uno senza thread ed eseguili con "time ./" così avremo la differenza di tempo di esecuzione e so quanto tempo guadagno, ricordando che al crescere dei numeri il metodo thread guadagna prestazioni.
